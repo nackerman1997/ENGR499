@@ -1,4 +1,5 @@
 #I am testing to see if this work
+#this is my second test to see if it works
 rpm = 1000             #rotations per minutes
 pul = 1600          #pulses per revoltuion
 spr = 200           #steps per revolution
